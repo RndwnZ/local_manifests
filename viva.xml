@@ -14,13 +14,13 @@
         name="android_device_xiaomi_viva-kernel"
         remote="6781-dev" />
 
-    <remove-project name="android_device_mediatek_sepolicy_vndr" />
+    
     <project
         path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr"
         remote="6781-dev" />
 
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi"
+    
         remote="lineageos" />
 
     <project path="hardware/mediatek" name="android_hardware_mediatek" remote="6781-dev" />
