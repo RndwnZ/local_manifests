@@ -16,8 +16,7 @@
 
     
     <project
-        path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr"
-        remote="6781-dev" />
+        
 
     <!-- Hardware -->
     
